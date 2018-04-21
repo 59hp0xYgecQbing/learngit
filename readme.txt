@@ -1,4 +1,3 @@
-Git is a distributed version control system.
-Git is free software distributed under the GPL.
-Git has a mutable index called stage.
-Git tracks changes of files.
+First time of using Git.
+This is the file used to practice basic commands.
+Btw, vim seems not so hard to use XD.
